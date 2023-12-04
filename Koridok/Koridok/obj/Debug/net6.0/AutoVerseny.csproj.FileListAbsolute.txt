@@ -1,0 +1,15 @@
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\AutoVerseny.exe
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\autoverseny.csv
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\AutoVerseny.deps.json
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\AutoVerseny.runtimeconfig.json
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\AutoVerseny.dll
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\AutoVerseny.pdb
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.GeneratedMSBuildEditorConfig.editorconfig
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.AssemblyInfoInputs.cache
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.AssemblyInfo.cs
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.csproj.CoreCompileInputs.cache
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.dll
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\refint\AutoVerseny.dll
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.pdb
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\AutoVerseny.genruntimeconfig.cache
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\ref\AutoVerseny.dll

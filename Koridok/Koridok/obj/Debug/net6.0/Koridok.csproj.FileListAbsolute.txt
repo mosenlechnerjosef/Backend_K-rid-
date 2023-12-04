@@ -1,0 +1,15 @@
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.GeneratedMSBuildEditorConfig.editorconfig
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.AssemblyInfoInputs.cache
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.AssemblyInfo.cs
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.csproj.CoreCompileInputs.cache
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\Koridok.exe
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\autoverseny.csv
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\Koridok.deps.json
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\Koridok.runtimeconfig.json
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\Koridok.dll
+J:\Boros Bence Backend\Koridok\Koridok\bin\Debug\net6.0\Koridok.pdb
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.dll
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\refint\Koridok.dll
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.pdb
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\Koridok.genruntimeconfig.cache
+J:\Boros Bence Backend\Koridok\Koridok\obj\Debug\net6.0\ref\Koridok.dll
